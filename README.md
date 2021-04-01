@@ -1,1 +1,1 @@
-# zj
+[{"n":"زندگی جدید امپراطور","s":"+4","m":"https://hw17.cdn.asset.aparat.com/aparat-video/17728a75cf0cd8a3ecc300b28079cdc715161651-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjcyYmI4MjgyNWNmMWY3MmE1Yjc1YTNlYWIwMDFjODQ1IiwiZXhwIjoxNjE3Mjc4MDM5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.HjW5jRoAzZ5iLIZKzp1llcZQDOdA7jCb4NZomxpXRAw"}]
